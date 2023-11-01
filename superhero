@@ -1,1 +1,36 @@
-
+<!DOCTYPE html>
+<html lang=""en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Superhero</title>
+    </head>
+    <body>
+        <h1>My Favorite Superheroes</h1>
+        <table>
+          <thead>
+            <tr>
+                <th>Name</th>
+                <th>Alius</th>
+                <th>Superpower</th>
+                <th>Weakness</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <th>Iron Man</th>
+                <td>Tony Stark</td>
+                <td><image src="Iron Man.jpg" alt="">Iron Man Picture</td>
+                <td>
+                    <ul>
+                        <li>flying</li>
+                        <li>fast healing</li>
+                        <li>hollogram decoys</li>
+                        <li>ultra strength</li>
+                    </ul>
+                </td>
+                <td>Limited power source</td>
+            </tr>
+          </tbody>
+        </table>
+   </body>
+</html>
