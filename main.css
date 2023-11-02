@@ -6,3 +6,8 @@
     
     background-color:var(--uncgray)
 }
+
+h1
+{
+    font-size: 48px;
+}
